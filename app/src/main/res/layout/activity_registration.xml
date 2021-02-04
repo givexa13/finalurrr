@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistrationActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.536">
+
+
+
+
+    <EditText
+            android:id="@+id/RegistarionEmailInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="შეიყვანეთ ელ-ფოსტა"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/RegistrationPasswordInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="შეიყვანეთ პაროლი"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/RegistrationConfirmPasswordInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="დაადასტურეთ პაროლი"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/RegistrationButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="რეგისტრაცია" />
+
+        <Button
+            android:id="@+id/FromRegToMainButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="უკან დაბრუნება" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

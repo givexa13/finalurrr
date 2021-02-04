@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_take_part">Please Take Part</string>
+    <string name="start">Start</string>
+    <string name="please_take_part_in_quiz">Please take part in QUiz</string>
+    <string name="which_character_travelled_around_the_work_in_80n_days_with_passe_partout">Which character travelled around the work in 80n days with Passe Partout?</string>
+    <string name="_0_10">0/10</string>
+    <string name="phileas_fogg">Phileas Fogg</string>
+    <string name="fagin">Fagin</string>
+    <string name="artful_dodger">Artful Dodger</string>
+    <string name="captain_ahab">Captain Ahab</string>
+    <string name="please_take_part_in_quizz">Please Take Part In Quizz</string>
+</resources>

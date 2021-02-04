@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551182776207",
+    "project_id": "fir-authdemo-e5ef5",
+    "storage_bucket": "fir-authdemo-e5ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551182776207:android:1811b240a15a9c4a37fdfa",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551182776207-imac96t5ftumi7uq256vdv7n1askf8s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz",
+            "certificate_hash": "bd58329cd92f5414eda0c5d3a2112b75705e4a3e"
+          }
+        },
+        {
+          "client_id": "551182776207-n7r7eeetvguh2q6kn4ucndibkcbbb4ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkdZeSCd-FHInYJvPEf3IkjfzLDePrn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551182776207-n7r7eeetvguh2q6kn4ucndibkcbbb4ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
